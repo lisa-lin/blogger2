@@ -18,3 +18,5 @@
 [2016-02-10 18:27:03 -0500 Lisas-MBP (22869)] INFO : Finished instrumentation
 [2016-02-10 18:27:03 -0500 Lisas-MBP (22869)] INFO : Doing deferred dependency-detection before Rack startup
 [2016-02-10 18:27:06 -0500 Lisas-MBP (22869)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1238830/applications/15301775
+[2016-02-10 18:29:38 -0500 Lisas-MBP (22869)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1238830/applications/15301775
+[2016-02-11 17:21:32 -0500 Lisas-MBP (22869)] INFO : Starting Agent shutdown
